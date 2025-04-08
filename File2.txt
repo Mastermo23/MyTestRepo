@@ -1,2 +1,1 @@
 This is File 2.
-project1:/featureOtherDeveloper  This is a feature introduced by another developer
