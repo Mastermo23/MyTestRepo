@@ -1,1 +1,2 @@
 This is File 2.
+New urgent fix: Some other developer did a change in Master directly.
