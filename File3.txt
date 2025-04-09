@@ -1,1 +1,2 @@
 file 3 pushed locally
+Oups fixed project 3 urgent bug fix directly in QA, this will cause a conflict.
