@@ -1,4 +1,2 @@
 file 3 pushed locally
-Introduced by feature feature_K2025_05_05.  The Urgent fix was removed and fixed by  feature_K2025_05_05.
-Urgent bug fix BugFix_1
-This line was introduced by another developer and will create a conflict.
+Removed 3 lines.  Quick QA fix.
