@@ -2,4 +2,6 @@ file 3 pushed locally
 Removed 3 lines.  Quick QA fix.
 Adding feature K2025_05_05_FIX3
 Adding 2nd feature for K2025_05_05_FIX3
+Ok we merged and kept the two lines below.
+This line will have a conflict.
 Added this line directly from GitHub into the Master branch to create a conflict that will be resolved locally.
