@@ -1,2 +1,3 @@
 file 3 pushed locally
 Urgent bug fix BugFix_1
+This line was introduced by another developer and will create a conflict.
